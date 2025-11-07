@@ -1,4 +1,4 @@
-# 🧱 LEVEL 4 — Modular Infrastructure
+# Modular Infrastructure
 
 ## Project Overview
 Build and reuse Terraform modules for reproducible infrastructure. This project converts EC2 + VPC setup into reusable modules that can be deployed across different environments (dev, staging) with different parameters.
