@@ -1,0 +1,4 @@
+environment = "dev"
+aws_region = "us-east-1"
+availability_zone = "us-east-1a"
+key_name = "main-key"
